@@ -17,7 +17,7 @@ Apparition;None;Transportation;Magically transports the caster;None
 Aqua Eructo Charm;Aqua Eructo;Charm;Jet of water;Ice Blue
 Spider repelling spell;Arania Exumai;Spell;Repels spiders;Blue
 Slowing Charm;Arresto Momentum;Charm;Slows or stops target's velocity;None
-Arrow-shooting spell;Conjuration;Fires arrows from the caster's wand;
+Arrow-shooting spell;;Conjuration;Fires arrows from the caster's wand;
 Ascendio;Ascendio;Charm;Lifts caster;None
 Killing Curse;Avada Kedavra;Curse;Instantaneous death;Green
 Avifors Spell;Avifors ;Transfiguration;Transforms the target into a bird.;Blue
@@ -45,8 +45,8 @@ Extension Charm;Capacious extremis;Charm;Increases interior space;
 Seize and Pull Charm;Carpe Retractum;Charm;Pull caster towards object, Pull object towards caster;Orange or Purple
 Cascading Jinx;Unknown;Jinx;Attacks multiple enemies;Blue
 Caterwauling Charm;Unknown;Charm;Sets off a high-pitched shriek if entered;
-Cauldron to Sieve;Transfiguration;Turns a cauldron into a sieve;
-Cauldron to badger;Transformation;Transforms a cauldron into a badger.;
+Cauldron to Sieve;;Transfiguration;Turns a cauldron into a sieve;
+Cauldron to badger;;Transformation;Transforms a cauldron into a badger.;
 Cave inimicum;Cave inimicum;Charm;Concealment;None
 Cheering Charm;Unknown;Charm;Creates joy;
 Circumrota;Circumrota;Charm;Rotates an object;
@@ -68,7 +68,7 @@ Densaugeo;Densaugeo;Hex ;Elongates teeth;Violet
 Deprimo;Deprimo;Charm;Blasts holes in ground;Green
 Banishing Charm;Depulso;Charm;Sends target away;White or Red
 Descendo;Descendo;Charm;Lowers target;Blue
-Desk Into Pig;Transfiguration;Transfigures desks into pigs;
+Desk Into Pig;;Transfiguration;Transfigures desks into pigs;
 Deterioration Hex;Unknown;Hex;Impairs foes;
 Severing Charm;Diffindo;Charm;Cuts objects;Light green, pink or red
 Diminuendo;Diminuendo;Charm;Shrinks objects;White
@@ -78,7 +78,7 @@ Draconifors Spell;Draconifors;Transfiguration;Turns object into dragon;Fiery o
 Drought Charm;Unknown;Charm;Dries up small bodies of water;
 Ducklifors Jinx;Ducklifors;Transfiguration, Jinx;Turns organisms to ducks;Yellow or Purple
 Hardening Charm;Duro;Charm;Turns object to stone;None
-Ears to kumquats;Transfiguration;Transfigures target's ears into kumquats;
+Ears to kumquats;;Transfiguration;Transfigures target's ears into kumquats;
 Ear-shrivelling Curse;Unknown;Curse;Causes ears to wither;
 Ebublio Jinx;Ebublio;Jinx;Traps target in giant bubble;Blue
 Engorgement Charm;Engorgio;Charm;Causes swelling;Icy blue
@@ -129,8 +129,8 @@ Hair-thickening Charm;Unknown;Charm;Causes hair to grow longer and thicker;
 Harmonia Nectere Passus;Harmonia Nectere Passus;Charm;Repairs Vanishing Cabinets;None
 Herbifors Spell;Herbifors;Transfiguration;Transforms target into flowers;Red or Purple
 Herbivicus Charm;Herbivicus;Charm;Rapidly grows plants;Green
-Dumbledore's Army parchment jinx;Unknown;Jinx;Causes boils to spell SNEAK on the face of a traitor;
-Homing spell;Unknown;Dark Arts;Offensive spells; will follow their target;Orange or Green
+Dumbledore's Army parchment jinx;Unknown;Jinx;"Causes boils to spell ""SNEAK"" on the face of a traitor";
+Homing spell;Unknown;Dark Arts;"Offensive spells; will follow their target";Orange or Green
 Human Presence Revealing Spell;Homenum Revelio;Charm ;Reveals human presence;None
 Homonculous Charm;Unknown;Charm ;When cast onto a map, it enables to track the movements of every person in the mapped area;
 Homorphus Charm;Unknown;Charm ;May temporarily change a transformed werewolf back into their human form (according to Gilderoy Lockhart, it cures lycanthropy);
@@ -198,7 +198,7 @@ Orchideous;Orchideous;Conjuration;Conjures flowers;Pink
 Oscausi;Oscausi;Dark charm;Seals mouth;White
 Pack;Pack;Charm;Packs luggage;None
 Papyrus Reparo;Papyrus Reparo;Charm;Mends torn paper;None
-Patented Daydream Charm;Charm;Makes the user daydream for 30 minutes;
+Patented Daydream Charm;;Charm;Makes the user daydream for 30 minutes;
 Partis Temporus;Partis Temporus;Charm;Parts the target;None
 Pepper breath hex;Unknown;Hex;Inflicts fiery hot breath;
 Periculum;Periculum;Charm;Burst of red sparks;Red
